@@ -11,6 +11,8 @@ body {
   background-size: cover;
   background-color: rgba(0, 0, 0, 0.808);
   height: 100%;
+  font-family: 'Amatic SC';
+  font-size: 22px;
 }
 /* ---------- في كل مطلوب display: flex يجب اضافة ---------- */
 /* ------------- فقط flex عدل على تحت تعليقات  ------------- */
